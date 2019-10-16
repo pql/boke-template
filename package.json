@@ -1,7 +1,7 @@
 {
-  "name": "ts-axios-doc",
+  "name": "eric's boke",
   "version": "1.0.0",
-  "description": "doc for ts-axios",
+  "description": "boke for eric",
   "main": "index.js",
   "directories": {
     "doc": "docs"
@@ -13,14 +13,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pql/ts-axios-doc.git"
+    "url": "git+https://github.com/pql/boke-template.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/pql/ts-axios-doc/issues"
+    "url": "https://github.com/pql/boke-template/issues"
   },
-  "homepage": "https://github.com/pql/ts-axios-doc#readme",
+  "homepage": "https://github.com/pql/boke-template#readme",
   "devDependencies": {
     "vuepress": "^1.0.0-alpha.44"
   }
